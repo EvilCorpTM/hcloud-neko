@@ -3,7 +3,7 @@ This script deploys https://github.com/nurdism/neko to an hetzner cloud vm, dele
 
 
 install following crontab
-`* * * * * bash /home/uesr/hcloud-neko/cron.sh >/dev/null 2>&1`
+`* * * * * bash /home/user/hcloud-neko/cron.sh >/dev/null 2>&1`
 
 and run deploy.sh
 
