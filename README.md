@@ -12,3 +12,4 @@ install following crontab
 and run deploy.sh
 
 make sure to have hcloud installed and configured
+AND! edit the deploy.sh to have your keys set
